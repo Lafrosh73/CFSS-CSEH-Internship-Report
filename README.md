@@ -1,6 +1,6 @@
 # CFSS-CSEH-Internship-Report
 
-This repository contains the full PDF report of my hands-on internship experience at **Cyber & Forensics Security Solutions (CFSS)** under the CSEH (Certified Security & Ethical Hacker) program.
+This repository contains the full PDF report of my hands-on internship experience at **Cyber & Forensics Security Solutions (CFSS)** under the CSEH (Cybersecurity & Ethical Hacking) program.
 
  **Report Title:** CFSS CSEH Internship Report  
  **Duration:** June – July 2024  
