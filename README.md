@@ -1,13 +1,12 @@
 # CFSS-CSEH-Internship-Report
-# CFSS Cybersecurity Internship Report
 
 This repository contains the full PDF report of my hands-on internship experience at **Cyber & Forensics Security Solutions (CFSS)** under the CSEH (Certified Security & Ethical Hacker) program.
 
-📄 **Report Title:** CFSS CSEH Internship Report  
-📆 **Duration:** June – July 2024  
-👤 **Name:** Olaleye Lateef Opeyemi
+ **Report Title:** CFSS CSEH Internship Report  
+ **Duration:** June – July 2024  
+ **Name:** Olaleye Lateef Opeyemi
 
-## 🔍 Contents Covered
+## Contents Covered
 
 The PDF includes practical cybersecurity tasks across:
 
@@ -22,17 +21,17 @@ The PDF includes practical cybersecurity tasks across:
 9. Wireless Security Protocol Comparison  
 10. CCTV Exploitation Risk Analysis
 
-📌 The full report includes screenshots, detailed steps, tools used, and results.
+ The full report includes screenshots, detailed steps, tools used, and results.
 
 > **Note:** All activities were performed in a lab environment and are for ethical learning purposes only.
 
-## 📥 View Report
+##  View Report
 
 Click to [Download the Report](https://drive.google.com/file/d/1VmqU3Ay8XbJ5WYLSN6Uy3ssi9SZKMBYv/view?usp=sharing).
 
 ---
 
-## 🧠 Key Tools Used
+##  Key Tools Used
 
 - Nessus, Nmap, Metasploit, John the Ripper  
 - Sublist3r, Maltego, SET Toolkit, Ngrok  
@@ -40,7 +39,7 @@ Click to [Download the Report](https://drive.google.com/file/d/1VmqU3Ay8XbJ5WYLS
 
 ---
 
-## ✅ Skills Demonstrated
+##  Skills Demonstrated
 
 - Vulnerability Assessment  
 - Penetration Testing  
